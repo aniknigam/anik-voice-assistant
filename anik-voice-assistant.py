@@ -5,7 +5,7 @@ import pywhatkit #for searching like playing video on youtube
 import datetime 
 import wikipedia
 import pyjokes
-from googlesearch import search
+# from googlesearch import search
 
 
 listener = sr.Recognizer()
