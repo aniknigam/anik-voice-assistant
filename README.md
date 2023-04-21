@@ -1,1 +1,1 @@
-# anik-voice
+# anik-voice-assistant
